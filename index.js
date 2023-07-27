@@ -44,3 +44,15 @@
 //alert(sayi + " cm " + don + " inch etmektedir");
 //cm yi inch e çevirme;
 
+//var c, f, don;
+//c = Number(prompt("Lüften Çevirmek İstediğiniz Santigrad dereceyi yazınız."))
+//f = (c * (1.8)) + 32;
+//alert(c + " santigrad derece " + f + " fahrenhayt derece yapar.");
+// santigrad dereceyi fahrenayta çeviren formul;
+
+//var a, b, x;
+//a = Number(prompt("Lütfen a değerini girinizi"));
+//b = Number(prompt("Lütfen b değerini girinizi"));
+//x = -(b / a);
+//alert("X değeri" + x + " dir");
+// Tek bilinmeyenli Denklem
