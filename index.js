@@ -2,6 +2,8 @@
 function loadJS(file) {
     var script = document.createElement("script");
     script.src = file;
+    script.async = true;
+    script.defer = true;
     document.getElementsByTagName("head").item(0).appendChild(script);
 }
 
